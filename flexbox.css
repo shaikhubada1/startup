@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+h1{
+    font-family: fantasy;
+    border-bottom: 10px solid red;
+     border-right: 10px solid red;
+     border-top: 10px solid red;
+     border-left: 10px solid red;
+    width: 400px;
+    box-shadow: 10px 10px 10px pink;
+     
+    text-align: center;
+}
+img{
+    margin: 10px;
+    /* transition: all 0.5s; */
+  
+}
+img:hover{
+    transform: scale(1.1);
+    transition: all 1s;
+  
+}
+body{
+    background-image: url(./race.webp);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    
+}

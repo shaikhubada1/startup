@@ -1,0 +1,26 @@
+li{
+   color: #1d3392 !important
+}
+
+li :hover{
+    text-align: center;
+    /* display: inline-block; */
+
+}
+img {
+    text-align: center;
+}
+body:hover {
+    cursor: pointer;
+}
+p{
+    text-align: center;
+    border: 10px dashed;
+    background-color: salmon;
+    color: yellow ;
+    line-height: 30px;
+    font-weight: bold;
+    
+}
+
+    
